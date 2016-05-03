@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="java-getopt-1.0.13">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/java-getopt-1.0.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/libs/java-getopt-1.0.13.jar!/" />
+    </SOURCES>
+  </library>
+</component>
